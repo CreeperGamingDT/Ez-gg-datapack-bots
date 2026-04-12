@@ -6,7 +6,7 @@ A Minecraft datapack that lets you spawn and control bots that fight you.
 
 ## 📥 Download V1
 
-1. [Download Latest Version](https://github.com/CreeperGamingDT/Ez-gg-inv/raw/main/ez-gg-botsv1.zip)  
+1. [Download V1](https://github.com/CreeperGamingDT/Ez-gg-inv/raw/main/ez-gg-botsv1.zip)  
 2. Open your Minecraft worlds folder  
 3. Open the `datapacks` folder  
 4. Drag the downloaded `.zip` file into `datapacks`  
@@ -15,7 +15,7 @@ A Minecraft datapack that lets you spawn and control bots that fight you.
 ---
 ## 📥 Download V2 (Experimental)
 
-1. [Download Latest Version](https://github.com/CreeperGamingDT/Ez-gg-inv/raw/main/ez-gg-botsv2.zip)  
+1. [Download V2 (Experimental)](https://github.com/CreeperGamingDT/Ez-gg-inv/raw/main/ez-gg-botsv2.zip)  
 2. Open your Minecraft worlds folder  
 3. Open the `datapacks` folder  
 4. Drag the downloaded `.zip` file into `datapacks`  
