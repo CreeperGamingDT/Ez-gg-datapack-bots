@@ -20,7 +20,7 @@ A Minecraft datapack that lets you spawn and control bots that fight you.
 3. Open the `datapacks` folder  
 4. Drag the downloaded `.zip` file into `datapacks`  
 5. Run `/reload` in-game  
-### This version may be outdated and will never be documented by me.
+### This version may be outdated and will not be documented.
 ---
 ## 🚀 Quick Start
 
