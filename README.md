@@ -22,6 +22,8 @@ A Minecraft datapack that lets you spawn and control bots that fight you.
 5. Run `/reload` in-game  
 ### This version may be outdated and will not be documented.
 ---
+# V1 Documentation
+
 ## 🚀 Quick Start
 
 Recommended setup order:
